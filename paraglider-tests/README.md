@@ -7,7 +7,7 @@
 * (Air Tourquoise)[https://para-test.com]
 * (todo) DHV
 
-Use (notebook)[glider_classification_source.ipynb]
+Use (notebook)[./glider_classification_source.ipynb]
 
 Files are downloaded to `data/pdf`, which folder should exist.
 
@@ -18,15 +18,24 @@ Mostly using the (langchain)[https://python.langchain.com/] library
 
 ### Embeddings
 
-Pending - Open AI with text-embedding-ada-002 should work well
+Open AI with text-embedding-ada-002 should work well
 
 ### Vector store & retriever
 
-FAISS was supposed to work
+
 
 ### LLM
 
-Let's try Open AI
+Open AI
+
+
+### Queries
+
+Some questions work better than others.
+
+![looks ok](./example.png)
+![not so good](./not_so_good_example.png)
+
 
 
 
