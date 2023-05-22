@@ -22,19 +22,18 @@ Open AI with text-embedding-ada-002 should work well
 
 ### Vector store & retriever
 
-
+Both Chrome / FAISS seem to work.
 
 ### LLM
 
-Open AI
-
+Open AI gpt 3
 
 ### Queries
 
 Some questions work better than others.
 
-![looks ok](example.png)
-![not so good](not_so_good_example.png)
+![looks ok](example.PNG)
+![not so good](not_so_good_example.PNG)
 
 
 
