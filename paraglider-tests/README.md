@@ -33,8 +33,8 @@ Open AI
 
 Some questions work better than others.
 
-![looks ok](./example.png)
-![not so good](./not_so_good_example.png)
+![looks ok](example.png)
+![not so good](not_so_good_example.png)
 
 
 
